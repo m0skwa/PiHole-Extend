@@ -1,33 +1,56 @@
+# ── Hotjar ──────────────────────────────────────────────
 identify.hotjar.com
 insights.hotjar.com
 surveys.hotjar.com
+
+# ── Mouseflow ───────────────────────────────────────────
 api.mouseflow.com
 tools.mouseflow.com
 cdn-test.mouseflow.com
+
+# ── Freshmarketer ───────────────────────────────────────
 freshmarketer.com
 claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
+
+# ── Lucky Orange ────────────────────────────────────────
 api.luckyorange.com
 realtime.luckyorange.com
 cdn.luckyorange.com
 w1.luckyorange.com
+
+# ── Sentry / Bugsnag (Error Tracking) ───────────────────
 browser.sentry-cdn.com
 app.getsentry.com
 api.bugsnag.com
 app.bugsnag.com
+
+# ── Social Media Tracking ────────────────────────────────
 events.reddit.com
 business-api.tiktok.com
 log.byteoversea.com
+
+# ── Yahoo Analytics ─────────────────────────────────────
 udcm.yahoo.com
 log.fc.yahoo.com
+
+# ── Yandex Analytics ────────────────────────────────────
 metrika.yandex.ru
 appmetrica.yandex.ru
+
+# ── Xiaomi Analytics ────────────────────────────────────
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
+
+# ── Apple Analytics ─────────────────────────────────────
 api-adservices.apple.com
 books-analytics-events.apple.com
+
+# ── Samsung Analytics ───────────────────────────────────
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
+
+# ── Huawei / HiCloud Analytics ──────────────────────────
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 grs.hicloud.com
