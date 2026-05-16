@@ -57,3 +57,9 @@ grs.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
+
+# ── Turtlecute Test ──────────────────────────────────────
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
